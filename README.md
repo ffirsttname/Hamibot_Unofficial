@@ -1,5 +1,7 @@
 # Hamibot（非官方）
 
+[繁體說明文件](https://github.com/ffirsttname/Hamibot_Unofficial/blob/main/%E7%B9%81%E9%AB%94%E8%AA%AA%E6%98%8E%E6%96%87%E4%BB%B6.md)
+
 在anaconda環境下使用pyinstaller打包
 
 使用的版本
