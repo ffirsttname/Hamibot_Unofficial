@@ -1,7 +1,9 @@
 # Hamibot（非官方）
 
 [繁體說明文件](https://github.com/ffirsttname/Hamibot_Unofficial/blob/main/%E7%B9%81%E9%AB%94%E8%AA%AA%E6%98%8E%E6%96%87%E4%BB%B6.md)
+[简体说明文件](https://github.com/ffirsttname/Hamibot_Unofficial/blob/main/%E7%AE%80%E4%BD%93%E8%AF%B4%E6%98%8E%E6%96%87%E4%BB%B6.md)
 
+使用Qt Designer設計介面，pylupdate5導出ts文件，並用Qt Linguist翻譯重新打包qm文件
 在anaconda環境下使用pyinstaller打包
 
 使用的版本
